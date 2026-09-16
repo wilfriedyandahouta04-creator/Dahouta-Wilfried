@@ -1,4 +1,4 @@
-# Dahouta-Wilfried
+# Dahouta Wilfried
 Third-year business school student with strong analytical skills,
 rigorous and proactive
 
