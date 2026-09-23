@@ -2,7 +2,7 @@
 Third-year business school student with strong analytical skills,
 rigorous and proactive
 
-Job Experiences
+# Job Experiences
 - Tour Guide Paris
   
 Museum d’histoire naturelle
@@ -21,7 +21,7 @@ to ensure deadlines were met.
 Stakeholder Management: Acted as a liaison between the school,
 association members, and suppliers.
 
-Educations
+# Educations
 - EMLV Business School – Pôle Universitaire 2024 - 2029
 Léonard de Vinci
 Master in Management – Programme Grande
@@ -31,9 +31,13 @@ Master in Management – Programme Grande
 - Baccalaureat generale (High School Diploma) 2024 - 2025
 Lycée Français de Kuala Lumpur
 
-Computer Skills 
+# Computer Skills 
 - Java
 - Sql 
 - Power Bi
+- Python
+- Google Antigravity
+- Git 
 
-
+# Honors
+- Taiwan Scholarship 
